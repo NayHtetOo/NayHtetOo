@@ -38,8 +38,8 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 ### 🌟 Featured Projects
 
 - **[E-Commerce Platform](https://github.com/NayHtetOo/laravel-vue-workshop)** - A full-stack e-commerce platform built with Vue.js.
-- **[Task Management App](https://github.com/NayHtetOo/laravel-vue-workshop)** - A task management application built.
-- **[Blogging Platform](https://github.com/NayHtetOo/laravel-vue-workshop)** - A blogging platform built.
+- **[Task Management App]()** - A task management application built.
+- **[Blogging Platform]()** - A blogging platform built.
 
 ### 📈 GitHub Stats
 
@@ -47,8 +47,6 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 
 - **Email**: [neyhtetoo@gmail.com](mailto:neyhtetoo@gmail.com)
 - **LinkedIn**: [Nay Htet Oo's LinkedIn Profile](https://www.linkedin.com/in/ney-htet-oo-858043248/)
-- **Twitter**: [@NayHtetOo]()
-- **Portfolio**: [NayHtetOo's Portfolio]()
 
 ### ⚡ Fun Fact
 
