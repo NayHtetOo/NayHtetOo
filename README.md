@@ -8,6 +8,14 @@ You can click the Preview link to take a look at your changes.
 
 I'm a passionate **Senior Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications and mobile applications. I enjoy solving complex problems and delivering high-quality solutions across platforms.
 
+### 🚀 Professional Experience
+
+- Contributed to the **entire development lifecycle** of government projects, including the **Myanmar Online Visa Application System** and **Project Progress Monitoring System**, using **PHP, Laravel, and MySQL**.  
+- Specialized in **Backend Development**, **Database Design**, and **Implementation**, ensuring robust and scalable solutions.  
+- Provided **Technical Support** and **Maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
+- Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile App** and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
+- Skilled in **customer service training** and effectively communicating technical concepts to non-technical clients. 
+
 ### 🛠️ Technologies & Tools
 
 - **Backend**: Laravel, PHP, REST APIs, CodeIgniter
