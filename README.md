@@ -2,7 +2,7 @@
 NayHtetOo/NayHtetOo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
-# Hi there, I'm John Doe 👋
+# Hello, I'm Nay Htet Oo 👋
 
 ## Senior Full Stack Developer 💻
 
@@ -10,17 +10,16 @@ I'm a passionate Senior Full Stack Developer with expertise in building scalable
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend**: React, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
-- **Backend**: Node.js, Express, Django, Flask, Spring Boot
-- **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
-- **DevOps**: Docker, Kubernetes, AWS, Azure, CI/CD pipelines
-- **Other Tools**: Git, GitHub, VS Code, Postman, Jira
+- **Frontend**: Vue.js, HTML5, CSS3, JavaScript,JQuery
+- **Backend**: Laravel
+- **Databases**: MySQL
+- **Other Tools**: Git, GitHub, BitBucket, VS Code, Postman.
 
 ### 🌟 Featured Projects
 
-- **[E-Commerce Platform](https://github.com/johndoe/ecommerce-platform)** - A full-stack e-commerce platform built with React and Node.js.
-- **[Task Management App](https://github.com/johndoe/task-management-app)** - A task management application built with Angular and Firebase.
-- **[Blogging Platform](https://github.com/johndoe/blogging-platform)** - A blogging platform built with Django and PostgreSQL.
+- **[E-Commerce Platform](https://github.com/NayHtetOo/ecommerce-platform)** - A full-stack e-commerce platform built with React and Node.js.
+- **[Task Management App](https://github.com/NayHtetOo/task-management-app)** - A task management application built with Angular and Firebase.
+- **[Blogging Platform](https://github.com/NayHtetOo/blogging-platform)** - A blogging platform built with Django and PostgreSQL.
 
 ### 📈 GitHub Stats
 
