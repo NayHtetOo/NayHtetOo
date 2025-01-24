@@ -6,12 +6,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Senior Full Stack Developer 💻
 
-I'm a passionate **Senior Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications. I enjoy solving complex problems and delivering high-quality solutions.
+I'm a passionate **Senior Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications and mobile applications. I enjoy solving complex problems and delivering high-quality solutions across platforms.
 
 ### 🛠️ Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, TailwindCSS, Vue.js, JavaScript, JQuery
 - **Backend**: Laravel, PHP, REST APIs
+- **Frontend**: HTML5, CSS3, TailwindCSS, Vue.js, JavaScript, JQuery
+- **Mobile**: Flutter, Dart
 - **Databases**: MySQL,SQLite
 - **Other Tools**: Git, GitHub, BitBucket, VS Code, Postman.
 
