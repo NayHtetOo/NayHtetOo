@@ -17,22 +17,22 @@ I'm a passionate Senior Full Stack Developer with expertise in building scalable
 
 ### 🌟 Featured Projects
 
-- **[E-Commerce Platform](https://github.com/NayHtetOo/ecommerce-platform)** - A full-stack e-commerce platform built with React and Node.js.
-- **[Task Management App](https://github.com/NayHtetOo/task-management-app)** - A task management application built with Angular and Firebase.
-- **[Blogging Platform](https://github.com/NayHtetOo/blogging-platform)** - A blogging platform built with Django and PostgreSQL.
+- **[E-Commerce Platform](https://github.com/NayHtetOo/laravel-vue-workshop)** - A full-stack e-commerce platform built with Vue.js.
+- **[Task Management App](https://github.com/NayHtetOo/laravel-vue-workshop)** - A task management application built.
+- **[Blogging Platform](https://github.com/NayHtetOo/laravel-vue-workshop)** - A blogging platform built.
 
 ### 📈 GitHub Stats
 
-![John Doe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Nay Htet Oo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me
 
 - **Email**: [john.doe@example.com](mailto:john.doe@example.com)
-- **LinkedIn**: [John Doe's LinkedIn Profile](https://www.linkedin.com/in/johndoe/)
-- **Twitter**: [@JohnDoe](https://twitter.com/JohnDoe)
-- **Portfolio**: [John Doe's Portfolio](https://johndoe.com)
+- **LinkedIn**: [Nay Htet Oo's LinkedIn Profile](https://www.linkedin.com/in/ney-htet-oo-858043248/)
+- **Twitter**: [@NayHtetOo]()
+- **Portfolio**: [NayHtetOo's Portfolio]()
 
 ### ⚡ Fun Fact
 
@@ -40,4 +40,4 @@ I'm an avid open-source contributor and love to share my knowledge through blogs
 
 ---
 
-⭐️ From [John Doe](https://github.com/johndoe)
+⭐️ From [NayHtetOo](https://github.com/NayHtetOo)
