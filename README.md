@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Aung+Htet+Paing;Welcome+to+my+Github.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nay+Htet+Oo;Welcome+to+my+Github.)](https://git.io/typing-svg)
 
 - 💼 I'm a web developer. Currently working at [Clickr Myanmar](https://www.clickrmedia.com).
 - 👀 I like watching variety shows, movies and Laracasts.
