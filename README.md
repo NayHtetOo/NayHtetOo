@@ -23,13 +23,9 @@ I'm a passionate Senior Full Stack Developer with expertise in building scalable
 
 ### 📈 GitHub Stats
 
-![Nay Htet Oo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
-
 ### 📫 How to Reach Me
 
-- **Email**: [john.doe@example.com](mailto:john.doe@example.com)
+- **Email**: [neyhtetoo@gmail.com](mailto:neyhtetoo@gmail.com)
 - **LinkedIn**: [Nay Htet Oo's LinkedIn Profile](https://www.linkedin.com/in/ney-htet-oo-858043248/)
 - **Twitter**: [@NayHtetOo]()
 - **Portfolio**: [NayHtetOo's Portfolio]()
