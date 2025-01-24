@@ -14,6 +14,8 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 - **Frontend**: HTML5, CSS3, TailwindCSS, Bootstrap, Vue.js, JavaScript, JQuery
 - **Mobile**: Flutter, Dart
 - **Databases**: MySQL,SQLite
+- **Web Servers**: Nginx, Apache
+- **Payment Integrations**: KBZ, AYA, MPU, VISA MASTER
 - **Other Tools**: Git, GitHub, BitBucket, VS Code, Postman.
 
 ### 🌟 Featured Projects
