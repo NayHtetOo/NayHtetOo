@@ -14,7 +14,7 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 - Specialized in **Backend Development**, **Database Design**, and **Implementation**, ensuring robust and scalable solutions.  
 - Provided **Technical Support** and **Maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
 - Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile App** and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
-- Skilled in **customer service training** and effectively communicating technical concepts to non-technical clients. 
+- Skilled in **Customer Service Training** and effectively communicating technical concepts to non-technical clients. 
 
 ### 🛠️ Technologies & Tools
 
