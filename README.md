@@ -14,7 +14,13 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 - Specialized in **Backend Development**, **Database Design**, and **Implementation**, ensuring robust and scalable solutions.  
 - Provided **Technical Support** and **Maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
 - Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile App** and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
-- Skilled in **Customer Service Training** and effectively communicating technical concepts to non-technical clients. 
+- Skilled in **Customer Service Training** and effectively communicating technical concepts to non-technical clients.
+- **Designed and Developed Customer Websites**: Specialized in creating corporate and e-commerce websites tailored to client requirements.
+- **Defined Project Scope and Timelines**: Collaborated with clients to determine scope of work, project timelines, and essential modules for website development.
+- **Customer Training**: Conducted training sessions for clients to ensure effective use of the developed websites.
+- **Website Deployment**: Successfully deployed websites on Z.com servers, ensuring stability and performance.
+- **Payment Gateway Integrations**: Implemented payment solutions, including KBZ, AYA Pay (PIN and QR), VISA, and MPU, for seamless transactions.
+- **API Development**: Generated robust APIs for mobile app integration to enhance functionality and user experience
 
 ### 🛠️ Technologies & Tools
 
