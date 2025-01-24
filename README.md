@@ -10,7 +10,7 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 
 ### 🛠️ Technologies & Tools
 
-- **Backend**: Laravel, PHP, REST APIs
+- **Backend**: Laravel, PHP, REST APIs, CodeIgniter
 - **Frontend**: HTML5, CSS3, TailwindCSS, Bootstrap, Vue.js, JavaScript, JQuery
 - **Mobile**: Flutter, Dart
 - **Databases**: MySQL,SQLite
