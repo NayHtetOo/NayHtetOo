@@ -10,17 +10,20 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 
 ### 🚀 Professional Experience
 
-- Contributed to the **entire development lifecycle** of government projects, including the **Myanmar Online Visa Application System** and **Project Progress Monitoring System**, using **PHP, Laravel, and MySQL**.  
-- Specialized in **Backend Development**, **Database Design**, and **Implementation**, ensuring robust and scalable solutions.  
-- Provided **Technical Support** and **Maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
-- Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile App** and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
-- Skilled in **Customer Service Training** and effectively communicating technical concepts to non-technical clients.
-- **Designed and Developed Customer Websites**: Specialized in creating corporate and e-commerce websites tailored to client requirements.
-- **Defined Project Scope and Timelines**: Collaborated with clients to determine scope of work, project timelines, and essential modules for website development.
-- **Customer Training**: Conducted training sessions for clients to ensure effective use of the developed websites.
-- **Website Deployment**: Successfully deployed websites on Z.com servers, ensuring stability and performance.
-- **Payment Gateway Integrations**: Implemented payment solutions, including KBZ, AYA Pay (PIN and QR), VISA, and MPU, for seamless transactions.
-- **API Development**: Generated robust APIs for mobile app integration to enhance functionality and user experience
+- **Government Projects**:  
+  - Contributed to the **entire development lifecycle** of government projects, including the **Myanmar Online Visa Application System** and **Project Progress Monitoring System**, using **PHP, Laravel, and MySQL**.  
+  - Specialized in **backend development**, **database design**, and **implementation**, ensuring robust and scalable solutions.  
+  - Provided **technical support** and **maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
+  - Developed **Flutter-based mobile applications** such as the **DOCA Library Mobile App**, **E-Meeting**, and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
+  - Skilled in **customer service training** and effectively communicating technical concepts to non-technical clients.  
+
+- **Corporate & E-Commerce Websites**:  
+  - Designed and developed **customer websites**, specializing in creating corporate and e-commerce platforms tailored to client requirements.  
+  - Defined **project scope** and **timelines**, collaborating with clients to determine essential modules and deliverables.  
+  - Conducted **customer training sessions** to ensure clients could effectively use and manage their websites.  
+  - Successfully deployed websites on **Z.com servers**, ensuring stability and performance.  
+  - Implemented **payment gateway integrations**, including **KBZ**, **AYA Pay (PIN and QR)**, **VISA**, and **MPU**, for seamless transactions.  
+  - Developed **robust APIs** for mobile app integration, enhancing functionality and user experience.  
 
 ### 🛠️ Technologies & Tools
 
