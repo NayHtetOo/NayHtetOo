@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nay+Htet+Oo;Welcome+to+my+Github Profile.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Nay+Htet+Oo;Welcome+to+my+Github.)](https://git.io/typing-svg)
 
 - 💼 I'm a Senior Web Developer. Currently working at [Z.com Myanmar](https://z.com/mm/).
 - 📫 Reach me via https://www.linkedin.com/in/ney-htet-oo-858043248/.
