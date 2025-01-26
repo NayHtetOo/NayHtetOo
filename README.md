@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 -->
 # Hello, I'm Nay Htet Oo 👋
 
-## Senior Full Stack Developer 💻
+## Full Stack Developer 💻
 
 I'm a passionate **Senior Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications and mobile applications. I enjoy solving complex problems and delivering high-quality solutions across platforms.
 
