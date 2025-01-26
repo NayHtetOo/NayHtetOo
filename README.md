@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Full Stack Developer 💻
 
-I'm a passionate **Senior Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications and mobile applications. I enjoy solving complex problems and delivering high-quality solutions across platforms.
+I'm a passionate **Full Stack Developer** with a strong focus on **Laravel** development. I specialize in building robust, scalable, and efficient web applications and mobile applications. I enjoy solving complex problems and delivering high-quality solutions across platforms.
 
 ### 🚀 Professional Experience
 
