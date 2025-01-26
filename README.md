@@ -37,7 +37,7 @@ I'm a passionate **Senior Full Stack Developer** with a strong focus on **Larave
 
 ### 🌟 Featured Projects
 
-- **[E-Commerce Platform](https://github.com/NayHtetOo/laravel-vue-workshop)** - A full-stack e-commerce platform built with Vue.js.
+- **[E-Commerce Platform]()** - A full-stack e-commerce platform built with Vue.js.
 - **[Task Management App]()** - A task management application built.
 - **[Blogging Platform]()** - A blogging platform built.
 
