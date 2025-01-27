@@ -34,7 +34,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel** dev
 - **Web Servers**: Nginx, Apache
 - **Payment Integrations**: KBZ, AYA, MPU, VISA MASTER
 - **Other Tools**: Git, GitHub, BitBucket, VS Code, Postman.
-
+<!--
 ### 🌟 Featured Projects
 
 - **[E-Commerce Platform]()** - A full-stack e-commerce platform built with Vue.js.
@@ -42,6 +42,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel** dev
 - **[Blogging Platform]()** - A blogging platform built.
 
 ### 📈 GitHub Stats
+-->
 
 ### 📫 How to Reach Me
 
