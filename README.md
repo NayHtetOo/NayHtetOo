@@ -14,7 +14,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on **Laravel** dev
   - Contributed to the **entire development lifecycle** of government projects, including the **Myanmar Online Visa Application System** and **Project Progress Monitoring System**, using **PHP, Laravel, and MySQL**.  
   - Specialized in **Backend Development**, **Database Design**, and **Implementation**, ensuring robust and scalable solutions.  
   - Provided **Technical Support** and **Maintenance** for existing governmental systems, troubleshooting complex issues, and implementing new features based on user feedback.  
-  - Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile App**, **E-Meeting**, and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
+  - Developed **Flutter-based Mobile Applications** such as the **DOCA Library Mobile Application**, **E-Meeting**, and **Visitor Registration System (VRS)**, with backend APIs built using **Laravel**.  
   - Skilled in **Customer Service Training** and effectively communicating technical concepts to non-technical clients.  
 
 - **Corporate & E-Commerce Websites**:  
