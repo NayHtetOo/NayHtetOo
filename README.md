@@ -3,10 +3,6 @@ NayHtetOo/NayHtetOo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 -->
 # Hello, I'm Nay Htet Oo 👋
-<p align="center">
-  <img src="https://www.linkedin.com/in/ney-htet-oo-858043248/overlay/background-image/" alt="Banner" width="100%">
-</p>
-
 
 ## Full Stack Developer 💻
 
